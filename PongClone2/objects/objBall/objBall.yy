@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "objBall",
     "eventList": [
-        
+        {
+            "id": "547770ca-ee04-476a-b540-e8ab22a1983d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "9d540d3b-9f3f-41e1-a5a0-1bb57d762f11"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
