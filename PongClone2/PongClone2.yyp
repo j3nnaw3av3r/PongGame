@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1c27a41d-1a7a-4af0-9e37-737480904776",
+            "Value": {
+                "id": "fbdf1657-7a7f-41f5-b070-b5a82850fcd4",
+                "resourcePath": "sounds\\sndWallHit\\sndWallHit.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1cd703c5-13bd-49cc-99cf-9b1ba218acae",
             "Value": {
                 "id": "8be5eecc-4a1c-4a07-ad55-e2f9b422043d",
@@ -116,6 +124,14 @@
                 "id": "6d9a959d-4a8d-4b07-86fd-dd647d742276",
                 "resourcePath": "views\\3c07959a-46c8-4cc4-8061-518ced5d36be.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "40d48f61-4340-483c-b192-c3d7aefb5a8d",
+            "Value": {
+                "id": "cf7c9809-132f-4d1b-877d-e8765d9655ae",
+                "resourcePath": "fonts\\fntScore\\fntScore.yy",
+                "resourceType": "GMFont"
             }
         },
         {

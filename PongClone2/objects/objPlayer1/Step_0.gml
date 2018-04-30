@@ -1,6 +1,6 @@
-/// move player 1 paddle
+/// @description move player 1 paddle
 
-mySpeed = 10
+mySpeed = 12
 
 if keyboard_check(ord("W"))
 {

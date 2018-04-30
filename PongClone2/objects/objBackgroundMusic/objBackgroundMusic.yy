@@ -5,13 +5,13 @@
     "name": "objBackgroundMusic",
     "eventList": [
         {
-            "id": "e92ae86b-9fe3-4a29-90cb-28c3183be305",
+            "id": "b1ff4840-71da-44ca-9a45-6d397db10bee",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 2,
-            "eventtype": 7,
+            "enumb": 0,
+            "eventtype": 0,
             "m_owner": "dd4f62d3-4c9e-4a6c-93ab-2dcd444f38ea"
         }
     ],
